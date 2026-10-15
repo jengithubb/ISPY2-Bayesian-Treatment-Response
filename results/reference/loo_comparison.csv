@@ -1,0 +1,4 @@
+model,label,elpd_diff,se_diff
+additive,MRI + HR + HER2,0.0,0.0
+interaction,Plus HR x HER2,-0.5,0.4
+imaging_only,MRI features only,-17.9,5.8

@@ -1,0 +1,7 @@
+measure,value
+clinical_rows,985
+imaging_rows,384
+matched_ids,384
+union_ids,985
+complete_cases,384
+excluded_incomplete,601

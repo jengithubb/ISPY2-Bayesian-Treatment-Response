@@ -1,0 +1,3 @@
+# Optional: redraw archived-result figures and regenerate the portfolio PDF.
+matplotlib>=3.8
+reportlab>=4.0
